@@ -45,3 +45,6 @@ These are the steps you should take in order to create your MVP:
 ## Stretch Problems
 
 1. Update the index views to only show `published?` posts.
+
+
+Inits
